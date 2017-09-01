@@ -29,3 +29,4 @@ Render Rmd in Console|Render an R Markdown document in the global environment|je
 Document This|Auto-generate Roxygen skeletons for functions and data|mdlincoln/docthis
 Hist Add-In|Interactively create histograms with ggplot2 and obtain the R Code|Stan125/limoaddin
 Graphical Unit Testing| Visual regression testing and graphical diffing with testthat |lionel-/vdiffr
+Insert Square Brackets| Insert Square Brackets|Hillea/AddBrackets
