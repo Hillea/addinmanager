@@ -30,3 +30,4 @@ Document This|Auto-generate Roxygen skeletons for functions and data|mdlincoln/d
 Hist Add-In|Interactively create histograms with ggplot2 and obtain the R Code|Stan125/limoaddin
 Graphical Unit Testing| Visual regression testing and graphical diffing with testthat |lionel-/vdiffr
 Insert Square Brackets| Insert Square Brackets|Hillea/AddBrackets
+Insert Curly Brackets| Insert Curly Brackets|Hillea/AddBraces
